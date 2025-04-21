@@ -1,6 +1,6 @@
 # Taskify
 
-A user-friendly todo list application built with React and TypeScript, featuring drag-and-drop task management, editing, deletion, and mark as done functionality.
+A user-friendly and **mobile-responsive** todo list application built with React and TypeScript, featuring drag-and-drop task management, editing, deletion, and mark as done functionality.
 
 ## Overview
 
@@ -8,6 +8,7 @@ Taskify is designed to be a clean and efficient way to manage your tasks. Built 
 
 ## Key Features
 
+* **Mobile Responsive:** Designed to provide a consistent and user-friendly experience on various screen sizes, from desktops to mobile phones.
 * **Drag and Drop:** Easily reorder your tasks using a seamless drag-and-drop interface to prioritize your day.
 * **Edit Tasks:** Quickly modify existing todo items to update descriptions or correct mistakes.
 * **Delete Tasks:** Remove completed or unnecessary tasks with a simple action.
