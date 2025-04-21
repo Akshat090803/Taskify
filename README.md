@@ -26,7 +26,7 @@ Taskify is designed to be a clean and efficient way to manage your tasks. Built 
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repository-url>
+    git clone https://github.com/Akshat090803/Taskify.git
     ```
 2.  **Navigate to the project directory:**
     ```bash
